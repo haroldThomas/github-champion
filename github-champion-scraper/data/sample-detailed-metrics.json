@@ -1,0 +1,65 @@
+[
+  {
+    "id": "former-champ",
+    "additions": 0,
+    "deletions": 0,
+    "commits": 0,
+    "pullsCreated": 0,
+    "pullReviews": 10,
+    "issuesClosed": 0
+  },
+  {
+    "id": "team-leader",
+    "additions": 4,
+    "deletions": 2,
+    "commits": 1,
+    "pullsCreated": 1,
+    "pullReviews": 1,
+    "issuesClosed": 0
+  },
+  {
+    "id": "cto",
+    "additions": 0,
+    "deletions": 0,
+    "commits": 0,
+    "pullsCreated": 0,
+    "pullReviews": 6,
+    "issuesClosed": 0
+  },
+  {
+    "id": "frodo",
+    "additions": 123,
+    "deletions": 54,
+    "commits": 2,
+    "pullsCreated": 1,
+    "pullReviews": 12,
+    "issuesClosed": 6
+  },
+  {
+    "id": "casual-contributor",
+    "additions": 0,
+    "deletions": 0,
+    "commits": 0,
+    "pullsCreated": 0,
+    "pullReviews": 5,
+    "issuesClosed": 1
+  },
+  {
+    "id": "gandalf",
+    "additions": 15652,
+    "deletions": 16589,
+    "commits": 13,
+    "pullsCreated": 8,
+    "pullReviews": 11,
+    "issuesClosed": 12
+  },
+  {
+    "id": "samwise",
+    "additions": 17,
+    "deletions": 4,
+    "commits": 1,
+    "pullsCreated": 1,
+    "pullReviews": 0,
+    "issuesClosed": 0
+  }
+]
