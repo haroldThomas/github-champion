@@ -1,0 +1,20 @@
+{
+  "organization": "your-org-name",
+  "repositories": [
+    "repo-one",
+    "repo-two"
+  ],
+  "time_range": {
+    "preset": "last_30_days",
+    "since": null,
+    "until": null
+  },
+  "github_api": {
+    "base_url": "https://api.github.com",
+    "per_page": 100
+  },
+  "leaderboard": {
+    "top_n": 3,
+    "organization_label": "Organization All-stars"
+  }
+}
