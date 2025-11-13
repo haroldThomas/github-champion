@@ -1,0 +1,77 @@
+[
+  {
+    "Organization All-stars": [
+      {
+        "name": "gandalf",
+        "total": 29.5,
+        "pullReviews": 25,
+        "issuesClosed": 3,
+        "pullsCreated": 3
+      },
+      {
+        "name": "samwise",
+        "total": 24.5,
+        "pullReviews": 16,
+        "issuesClosed": 5,
+        "pullsCreated": 7
+      },
+      {
+        "name": "frodo",
+        "total": 20,
+        "pullReviews": 16,
+        "issuesClosed": 1,
+        "pullsCreated": 6
+      }
+    ]
+  },
+  {
+    "apify-web": [
+      {
+        "name": "gandalf",
+        "total": 27,
+        "pullReviews": 11,
+        "issuesClosed": 12,
+        "pullsCreated": 8
+      },
+      {
+        "name": "frodo",
+        "total": 18.5,
+        "pullReviews": 12,
+        "issuesClosed": 6,
+        "pullsCreated": 1
+      },
+      {
+        "name": "former-champ",
+        "total": 10,
+        "pullReviews": 10,
+        "issuesClosed": 0,
+        "pullsCreated": 0
+      }
+    ]
+  },
+  {
+    "apify-core": [
+      {
+        "name": "winner",
+        "total": 14.5,
+        "pullReviews": 10,
+        "issuesClosed": 0,
+        "pullsCreated": 9
+      },
+      {
+        "name": "hello-user",
+        "total": 13,
+        "pullReviews": 4,
+        "issuesClosed": 7,
+        "pullsCreated": 4
+      },
+      {
+        "name": "future-champ",
+        "total": 6.5,
+        "pullReviews": 6,
+        "issuesClosed": 0,
+        "pullsCreated": 1
+      }
+    ]
+  }
+]
